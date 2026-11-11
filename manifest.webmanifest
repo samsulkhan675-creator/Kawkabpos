@@ -1,0 +1,9 @@
+{
+  "name": "Kawkab Digital Studio & Mobile Shop POS",
+  "short_name": "Kawkab POS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#14243b",
+  "description": "Mobile POS and inventory app"
+}
